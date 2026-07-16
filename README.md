@@ -157,21 +157,9 @@ Messaging app with sub-100ms delivery, Cloudinary uploads, dark mode, secure JWT
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SIVAGORAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAGORAM&layout=compact&theme=tokyonight&hide_border=true"/>
+> Generated automatically inside this repo by GitHub Actions — no third-party server, so it never goes down.
 
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVAGORAM&theme=tokyo-night&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SIVAGORAM&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/SIVAGORAM/SIVAGORAM/main/github-metrics.svg" width="100%"/>
 
 </div>
 
