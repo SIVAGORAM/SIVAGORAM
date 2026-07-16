@@ -162,7 +162,7 @@ Messaging app with sub-100ms delivery, Cloudinary uploads, dark mode, secure JWT
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -171,7 +171,7 @@ Messaging app with sub-100ms delivery, Cloudinary uploads, dark mode, secure JWT
 <br/><br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=SIVAGORAM&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SIVAGORAM&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
