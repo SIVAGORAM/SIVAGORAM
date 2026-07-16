@@ -1,80 +1,187 @@
-# 💫 About Me
+<div align="center">
 
-- Software Development Engineer (SDE)
-- Full Stack Engineer
-- Freelancer
-- Design, develop, and deploy end-to-end web applications
-- Build scalable and maintainable systems
-- Work across frontend, backend, and deployment
-- Continuously learning and improving
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Goram%20Siva%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer%20%7C%20Building%20products%20that%20ship,%20scale%20%26%20solve%20real%20problems&descAlignY=58&descSize=16" width="100%"/>
 
-> “I build products that ship, scale, and solve real problems.”
+<a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/GoramSiva"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://www.instagram.com/thesiva.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://sivagoram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:mrsivagoram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=Full+Stack+Engineer+%7C+MERN+%2F+Next.js+%2F+FastAPI;Shipping+Healthcare%2C+Agri-Tech+%26+AI+products+in+production;Currently+leveling+up%3A+DevOps+%2B+React+Native+%2B+GenAI;Aspiring+High-Demand+Fullstack+AI+Engineer" alt="Typing SVG" />
 
-## 🌐 Socials
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goram-siva-prasad-3779b6232/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsivagoramofficial)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrsivagoram)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrsivagoram@gmail.com)
+<br/>
 
+## 🧭 About Me
 
-# 💻 Tech Stack
+- 🚀 Full Stack Engineer with **~1 year of production experience** shipping real, revenue-facing software
+- 🏥 Built a **healthcare platform** used live by doctors & patients — video consults, payments, RBAC
+- 🌾 Built a **live agriculture tracking platform** with GPS field mapping (~95% accuracy) for real farmers
+- 🤖 Built an **AI document-extraction pipeline** that cut manual data entry by ~70% for enterprise clients
+- 🛠️ Comfortable across the **entire stack**: Frontend → Backend → Databases → Cloud/DevOps → AI/LLMs
+- 📈 Currently deep in **DevOps, React Native, and Generative AI / LLM engineering**
+- 🎯 Goal: become a **high-demand Fullstack AI Engineer** (Frontend + Backend + DevOps + AI, end to end)
+- 🎓 B.Tech, Electronics & Communication Engineering — CGPA 8.2/10 (2021–2025)
+- 🏆 Finalist — Smart India Hackathon (National) & Hack2Skills x Nanochip Hackathon
 
-## 🚀 Frontend (MERN & Modern UI)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+> *"I build products that ship, scale, and solve real problems."*
 
-## ⚙️ State & API Management
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+<br/>
 
-## 🧠 Backend & APIs
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+## 💼 Experience Snapshot
 
-## 🗄️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+```text
+Dec 2025 — Present   SDE @ GetSet Solutions           AI document automation · Agri-tech · Payroll/HR systems
+Jul 2025 — Nov 2025   Full Stack Engineer @ eAsha 24/7  Healthcare SaaS — live from launch day
+Feb 2025 — Jul 2025   MERN Trainee @ StudentTribe       Student management platform
+```
 
-## ☁️ DevOps & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+| Highlight | Impact |
+|---|---|
+| AI-powered document reading system (FastAPI + Python) | ~70% less manual data entry for 2 enterprise clients |
+| Live agriculture platform — GPS boundary mapping, live weather | ~95% GPS accuracy in field tests |
+| Payroll & HR automation for 100+ employees | ~35% faster API responses via query optimisation |
+| Healthcare platform — WebRTC video consults + Razorpay payments | 99%+ uptime over 5 months, zero security incidents |
+| Role-based auth (JWT, OTP, 3+ roles) across two production apps | Zero security incidents in production |
 
-## 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+<br/>
 
+## 🧰 Tech Stack
 
-# 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SIVAGORAM&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=SIVAGORAM&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAGORAM&theme=dark&hide_border=false&layout=compact)
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/amazon_aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+**AI / LLM Engineering**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00C9A7?style=for-the-badge"/>
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare SaaS Platform
+Multi-role platform — patient booking, live WebRTC video consults, Razorpay payments, admin panel.
+**99%+ uptime · APIs under 200ms · zero security incidents**
+`React` `Node.js` `MongoDB` `WebRTC` `Socket.io` `Docker` `AWS EC2`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Document Extraction Pipeline
+Reads and extracts structured data from business documents using LLMs/VLMs.
+**~70% less manual data entry for 2 enterprise clients**
+`FastAPI` `Python` `LLMs` `Vision-Language Models` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Realtime Crop Agriculture Platform
+GPS farm-boundary mapping, live weather, crop task calendar — optimised for rural, low-speed internet.
+**~95% GPS mapping accuracy**
+`React` `FastAPI` `Leaflet.js` `PostGIS` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application
+Messaging app with sub-100ms delivery, Cloudinary uploads, dark mode, secure JWT sessions.
+`MERN` `Socket.io` `Cloudinary` `TailwindCSS` `JWT`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SIVAGORAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAGORAM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVAGORAM&theme=tokyo-night&hide_border=true"/>
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=SIVAGORAM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=SIVAGORAM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
----
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm open to **Full Stack Engineer / Associate SDE / AI Engineer** roles — collaborative teams building products that matter.
+
+<a href="mailto:mrsivagoram@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sivagoram.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
 
 [![](https://visitcount.itsvg.in/api?id=SIVAGORAM&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=100&section=footer" width="100%"/>
+
+</div>
