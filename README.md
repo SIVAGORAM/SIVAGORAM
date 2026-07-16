@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Goram%20Siva%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer%20%7C%20Building%20products%20that%20ship,%20scale%20%26%20solve%20real%20problems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=180&section=header&text=Goram%20Siva%20Prasad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
+<p>
 <a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/GoramSiva"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://x.com/GoramSiva"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/thesiva.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://sivagoram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:mrsivagoram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=Full+Stack+Engineer+%7C+MERN+%2F+Next.js+%2F+FastAPI;Shipping+Healthcare%2C+Agri-Tech+%26+AI+products+in+production;Currently+leveling+up%3A+DevOps+%2B+React+Native+%2B+GenAI;Aspiring+High-Demand+Fullstack+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Engineer+%7C+MERN+%2F+Next.js+%2F+FastAPI;Healthcare+%2B+Agri-Tech+%2B+AI+products+in+production;Leveling+up%3A+DevOps+%2B+React+Native+%2B+DSA;Aspiring+High-Demand+Fullstack+AI+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +23,7 @@
 - 🌾 Built a **live agriculture tracking platform** with GPS field mapping (~95% accuracy) for real farmers
 - 🤖 Built an **AI document-extraction pipeline** that cut manual data entry by ~70% for enterprise clients
 - 🛠️ Comfortable across the **entire stack**: Frontend → Backend → Databases → Cloud/DevOps → AI/LLMs
-- 📈 Currently deep in **DevOps, React Native, and Generative AI / LLM engineering**
+- 📈 Currently deep in **DevOps, React Native, Data Structures & Algorithms (Python), and Generative AI / LLM engineering**
 - 🎯 Goal: become a **high-demand Fullstack AI Engineer** (Frontend + Backend + DevOps + AI, end to end)
 - 🎓 B.Tech, Electronics & Communication Engineering — CGPA 8.2/10 (2021–2025)
 - 🏆 Finalist — Smart India Hackathon (National) & Hack2Skills x Nanochip Hackathon
@@ -103,6 +105,7 @@ Feb 2025 — Jul 2025   MERN Trainee @ StudentTribe       Student management pla
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA%20(Python)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 </div>
 
@@ -157,12 +160,18 @@ Messaging app with sub-100ms delivery, Cloudinary uploads, dark mode, secure JWT
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SIVAGORAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAGORAM&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVAGORAM&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
 
-### 🔝 Top Contributed Repositories
-<img src="https://github-contributor-stats.vercel.app/api?username=SIVAGORAM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVAGORAM&theme=tokyo-night&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=SIVAGORAM&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
