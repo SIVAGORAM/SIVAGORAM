@@ -182,6 +182,8 @@ I'm open to **Full Stack Engineer / Associate SDE / AI Engineer** roles — coll
 <a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sivagoram.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
+📧 **mrsivagoram@gmail.com**
+
 <br/><br/>
 
 [![](https://visitcount.itsvg.in/api?id=SIVAGORAM&icon=2&color=1)](https://visitcount.itsvg.in)
