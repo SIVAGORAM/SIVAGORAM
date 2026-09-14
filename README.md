@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=180&section=header&text=Goram%20Siva%20Prasad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20Cloud%20DevOps%20%2B%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=180&section=header&text=Goram%20Siva%20Prasad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20DevOps%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p>
-<a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/GoramSiva"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/thesiva.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://sivagoram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:mrsivagoram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/GoramSiva"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/thesiva.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://sivagoram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:mrsivagoram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Engineer+%7C+MERN+%2F+Next.js+%2F+FastAPI;Cloud+DevOps+%7C+AWS+%2F+Kubernetes+%2F+Terraform;AI+Document+Automation+%2B+RAG+%2B+Vector+DBs;Aspiring+High-Demand+Fullstack+DevOps+AI+Engineer" alt="Typing SVG" />
@@ -18,36 +18,73 @@
 
 ## 🧭 About Me
 
-- 🚀 Full Stack Engineer & Cloud DevOps Enthusiast with **~1 year of production experience** shipping real, revenue-facing software
-- ☁️ **DevOps & Cloud:** Building automated infrastructure on **AWS**, orchestrating containerized microservices with **Kubernetes (EKS)**, writing **Terraform IaC**, and **GitOps (ArgoCD)** pipelines
-- 🏥 Built a **healthcare platform** used live by doctors & patients — video consults, payments, RBAC
-- 🌾 Built a **live agriculture tracking platform** with GPS field mapping (~95% accuracy) for real farmers
-- 🤖 Built an **AI document-extraction pipeline** that cut manual data entry by ~70% for enterprise clients
-- 🛠️ Comfortable across the **entire stack**: Frontend → Backend → Databases → Cloud/DevOps → AI/LLMs
-- 📈 Currently deep in **DevOps (AWS/K8s/Terraform), React Native, Data Structures & Algorithms (Python), and Generative AI / LLM engineering**
-- 🎯 Goal: become a **high-demand Fullstack DevOps AI Engineer** (Frontend + Backend + Cloud DevOps + AI, end to end)
-- 🎓 B.Tech, Electronics & Communication Engineering — CGPA 8.2/10 (2021–2025)
-- 🏆 Finalist — Smart India Hackathon (National) & Hack2Skills x Nanochip Hackathon
+- 🚀 Full Stack Engineer & Cloud DevOps Specialist with **~1 year of production experience** shipping real, revenue-facing software.
+- ☁️ **DevOps & Cloud Automation:** Architecting infrastructure on **AWS**, orchestrating containers with **Kubernetes (EKS)**, writing **Terraform IaC**, and configuring **GitOps (ArgoCD)** pipelines.
+- 🏥 **Healthcare SaaS Platform:** Built a live telemedicine platform used by doctors & patients featuring WebRTC video consults, Razorpay payments, and fine-grained RBAC.
+- 🌾 **Agri-Tech GIS Platform:** Built a live agricultural field tracking platform with high-accuracy GPS boundary mapping (~95% accuracy) optimized for low-bandwidth rural operations.
+- 🤖 **AI & Data Engineering:** Built an **AI document extraction pipeline** using FastAPI and LLMs/VLMs that reduced manual data entry by ~70% for enterprise clients.
+- 🛠️ **Full Stack Mastery:** Frontend (React / Next.js) $\rightarrow$ Backend (Node.js / FastAPI) $\rightarrow$ Databases (PostgreSQL / MongoDB / Redis) $\rightarrow$ Cloud (AWS / EKS / Terraform) $\rightarrow$ AI (LangChain / Vector DBs).
+- 🎓 **Education:** B.Tech, Electronics & Communication Engineering (ECE) — CGPA 8.2/10 (2021–2025).
+- 🏆 **Achievements:** Finalist at **Smart India Hackathon (National)** & **Hack2Skills x Nanochip Hackathon**.
 
 > *"I build products that ship, scale, and solve real problems."*
 
 <br/>
 
-## 💼 Experience Snapshot
+## 💼 Experience & Production Impact
 
-```text
-Dec 2025 — Present   SDE @ GetSet Solutions           AI document automation · Agri-tech · Payroll/HR systems
-Jul 2025 — Nov 2025   Full Stack Engineer @ eAsha 24/7  Healthcare SaaS — live from launch day
-Feb 2025 — Jul 2025   MERN Trainee @ StudentTribe       Student management platform
-```
-
-| Highlight | Impact |
-|---|---|
-| AI-powered document reading system (FastAPI + Python) | ~70% less manual data entry for 2 enterprise clients |
-| Live agriculture platform — GPS boundary mapping, live weather | ~95% GPS accuracy in field tests |
-| Payroll & HR automation for 100+ employees | ~35% faster API responses via query optimisation |
-| Healthcare platform — WebRTC video consults + Razorpay payments | 99%+ uptime over 5 months, zero security incidents |
-| Cloud DevOps Pipelines & Infrastructure | Automated zero-downtime deployment pipelines on AWS & K8s |
+<table width="100%">
+  <tr>
+    <td width="38%" valign="top">
+      <h3>💼 GetSet Solutions</h3>
+      <b>Software Development Engineer</b><br/>
+      <sub>📅 Dec 2025 — Present | Full Time</sub><br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    </td>
+    <td width="62%" valign="top">
+      <ul>
+        <li><b>🤖 AI Document Automation Engine:</b> Built and deployed an automated document extraction system using FastAPI & Vision-LLMs, reducing manual data entry by <b>~70%</b> for 2 enterprise clients.</li>
+        <li><b>🌾 Agri-Tech GIS Mapping:</b> Developed real-time agricultural field mapping with Leaflet.js & PostGIS, achieving <b>~95% GPS accuracy</b> in rural field tests.</li>
+        <li><b>⚡ HR & Payroll Systems:</b> Optimized database queries and REST API endpoints, boosting overall response speed by <b>~35%</b> across 100+ employee records.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <h3>🏥 eAsha 24/7</h3>
+      <b>Full Stack Engineer</b><br/>
+      <sub>📅 Jul 2025 — Nov 2025 | Production</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+    </td>
+    <td width="62%" valign="top">
+      <ul>
+        <li><b>🩺 Healthcare SaaS Platform:</b> Architected and launched a multi-role telemedicine platform supporting live WebRTC video consultations, doctor appointments, and Razorpay payment gateways.</li>
+        <li><b>🔒 Uptime & Security:</b> Maintained <b>99%+ uptime</b> over 5 months with <b>zero security incidents</b> across multi-role JWT & OTP authentication.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <h3>🎓 StudentTribe</h3>
+      <b>MERN Stack Developer Trainee</b><br/>
+      <sub>📅 Feb 2025 — Jul 2025 | Trainee</sub><br/><br/>
+      <img src="https://img.shields.io/badge/MERN-323330?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Express-404D59?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css"/>
+    </td>
+    <td width="62%" valign="top">
+      <ul>
+        <li><b>🎓 Student Management Platform:</b> Built responsive user interface dashboards and scalable backend endpoints for student onboarding and course tracking.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
