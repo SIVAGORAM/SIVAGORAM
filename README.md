@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:0f766e,100:00c9a7&height=200&section=header&text=GORAM%20SIVA%20PRASAD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Cloud%20DevOps%20%E2%80%A2%20AI%20Systems%20Engineer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:0f766e,100:00c9a7&height=180&section=header&text=Goram%20Siva%20Prasad&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20DevOps%20%7C%20AI%20Systems%20Engineer&descAlignY=55&descSize=17" width="100%"/>
 
 <!-- SOCIAL & CONTACT COMMAND CENTER -->
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <!-- DYNAMIC TYPING SVG BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=900&height=40&lines=☁️+Cloud+DevOps%3A+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Jenkins;💻+Full+Stack%3A+React+%7C+Next.js+%7C+FastAPI+%7C+Node.js+%7C+TypeScript;🤖+AI+Automation%3A+LLMs+%7C+RAG+%7C+OCR+Pipelines+%7C+OpenAI+%7C+Gemini;🔒+Enterprise+Security%3A+JWT+%7C+OAuth+%7C+RBAC+%7C+OWASP+%7C+AES-256" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=900&height=40&lines=Cloud+DevOps%3A+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Jenkins;Full+Stack%3A+React+%7C+Next.js+%7C+FastAPI+%7C+Node.js+%7C+TypeScript;AI+Automation%3A+LLMs+%7C+RAG+%7C+OCR+Pipelines+%7C+OpenAI+%7C+Gemini;Enterprise+Security%3A+JWT+%7C+OAuth+%7C+RBAC+%7C+OWASP+%7C+AES-256" alt="Typing SVG" />
 
 </div>
 
@@ -22,84 +22,45 @@
 
 ## 🎯 Executive Profile
 
-I am a **Full Stack Engineer, Cloud DevOps Specialist & AI Automation Architect** with **~1 year of production experience** shipping high-performance web platforms, cloud infrastructure, and intelligent AI pipelines.
+> **Full Stack Engineer, Cloud DevOps Specialist & AI Automation Architect** with **~1 year of production experience** shipping high-performance web platforms, cloud infrastructure, and intelligent AI pipelines.
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">☁️ Cloud & DevOps</h3>
-      <ul>
-        <li><b>Cloud (AWS):</b> EC2, S3, IAM, VPC, Lambda, CloudWatch, ECR</li>
-        <li><b>Containers:</b> Docker, Docker Compose, Kubernetes</li>
-        <li><b>IaC & Config:</b> Terraform (HCL), Ansible Playbooks</li>
-        <li><b>CI/CD:</b> GitHub Actions, Jenkins, Vercel Deployments</li>
-        <li><b>Networking:</b> Nginx, Security Groups, Load Balancers</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">💻 Full Stack Development</h3>
-      <ul>
-        <li><b>Frontend:</b> React.js, Next.js, React Native, Redux, TailwindCSS, shadcn/ui</li>
-        <li><b>Backend:</b> Node.js, Express.js, FastAPI, REST APIs, Microservices</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB, MySQL, Redis, PostGIS</li>
-        <li><b>Real-time:</b> WebSockets, Socket.io, WebRTC Video</li>
-      </ul>
-    </td>
-    <td width="34%" valign="top">
-      <h3 align="center">🤖 AI & Security Integration</h3>
-      <ul>
-        <li><b>AI & Automation:</b> LLMs, SLMs, OCR Pipelines, Prompt Engineering</li>
-        <li><b>AI APIs:</b> OpenAI API, Gemini API, OpenRouter, LangChain</li>
-        <li><b>GIS & Maps:</b> Esri, OpenStreetMap, Geocoding, Leaflet.js</li>
-        <li><b>Security:</b> JWT, OAuth, RBAC, AES-256, OWASP, SOC 2</li>
-        <li><b>Integrations:</b> Razorpay, Cloudinary, Jitsi Meet</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ⚡ Core Technical Pillars
+
+- ☁️ **Cloud Infrastructure & DevOps:** AWS (EC2, S3, IAM, VPC, Lambda, CloudWatch, ECR), Docker, Kubernetes, Terraform (HCL), Ansible Playbooks, Jenkins, GitHub Actions, Linux (Ubuntu), Nginx, Vercel, Prometheus, Grafana
+- 💻 **Full Stack Software Engineering:** React.js, Next.js, React Native, Redux Toolkit, React Query, TailwindCSS, shadcn/ui, Node.js, Express.js, FastAPI, REST APIs, Microservices, WebSockets, WebRTC
+- 🤖 **AI & Intelligent Automation:** LLMs, SLMs, OCR Pipelines, Prompt Engineering, OpenAI API, Gemini API, OpenRouter, LangChain, Pinecone, ChromaDB, RAG Architecture
+- 🛢️ **Databases & Spatial Data:** PostgreSQL, MongoDB, MySQL, Redis, PostGIS, Esri GIS, OpenStreetMap, Geocoding
+- 🔒 **Enterprise Security & Compliance:** JWT, OAuth 2.0, RBAC, AES-256 Encryption, OWASP Security, SOC 2 Compliance
 
 <br/>
 
 ## 🌟 Featured Engineering Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🤖 AI Document Extraction & OCR Pipeline
-Automated intelligent document extraction system processing enterprise files using FastAPI, LLMs/VLMs, and custom OCR pipelines.
-- ⚡ **Impact:** Reduced manual data entry by **~70%** for 2 enterprise clients
-- 🛠️ **Tech:** `FastAPI` `Python` `OpenAI API` `Gemini` `OCR` `PostgreSQL` `Docker`
+> **Automated intelligent document extraction system** processing enterprise files using FastAPI, Vision-LLMs, and custom OCR pipelines.  
+> ⚡ **Impact:** Reduced manual data entry by **~70%** for 2 enterprise clients  
+> 🛠️ **Tech Stack:** `FastAPI` `Python` `OpenAI API` `Gemini` `OCR` `PostgreSQL` `Docker`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### ☁️ Cloud Microservices Infrastructure & CI/CD
-Production containerized deployment infrastructure on AWS with automated CI/CD pipelines and Terraform IaC provisioning.
-- ⚡ **Impact:** Enabled zero-downtime releases & sub-5 minute build automation
-- 🛠️ **Tech:** `AWS (EC2/EKS)` `Docker` `Terraform` `Ansible` `GitHub Actions` `Jenkins`
+> **Production containerized deployment infrastructure** on AWS with automated CI/CD pipelines and Terraform IaC provisioning.  
+> ⚡ **Impact:** Enabled zero-downtime releases & sub-5 minute build automation  
+> 🛠️ **Tech Stack:** `AWS (EC2/EKS)` `Docker` `Terraform` `Ansible` `GitHub Actions` `Jenkins`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🏥 Healthcare Telemedicine SaaS Platform
-Production multi-role healthcare application supporting patient bookings, WebRTC video consults, and Razorpay payment integration.
-- ⚡ **Impact:** **99%+ uptime** over 5 months, sub-200ms API response latency
-- 🛠️ **Tech:** `React` `Node.js` `MongoDB` `WebRTC` `Razorpay` `JWT/RBAC` `AWS`
+> **Production multi-role healthcare application** supporting patient bookings, WebRTC video consults, and Razorpay payment integration.  
+> ⚡ **Impact:** **99%+ uptime** over 5 months, sub-200ms API response latency  
+> 🛠️ **Tech Stack:** `React` `Node.js` `MongoDB` `WebRTC` `Razorpay` `JWT/RBAC` `AWS`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🌾 Real-Time Agriculture GIS Tracking Platform
-Agricultural field management system featuring live weather tracking and high-precision GIS field mapping for low-bandwidth rural operations.
-- ⚡ **Impact:** Achieved **~95% GPS boundary mapping accuracy** in field tests
-- 🛠️ **Tech:** `React` `FastAPI` `Esri / OpenStreetMap` `PostGIS` `PostgreSQL`
-
-</td>
-</tr>
-</table>
+> **Agricultural field management system** featuring live weather tracking and high-precision GIS field mapping for low-bandwidth rural operations.  
+> ⚡ **Impact:** Achieved **~95% GPS boundary mapping accuracy** in field tests  
+> 🛠️ **Tech Stack:** `React` `FastAPI` `Esri` `OpenStreetMap` `PostGIS` `PostgreSQL`
 
 <br/>
 
@@ -202,16 +163,7 @@ Agricultural field management system featuring live weather tracking and high-pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SIVAGORAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAGORAM&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=SIVAGORAM&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIVAGORAM&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://streak-stats.demolab.com/?user=SIVAGORAM&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
